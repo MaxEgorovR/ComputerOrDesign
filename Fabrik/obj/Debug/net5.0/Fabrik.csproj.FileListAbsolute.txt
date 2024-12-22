@@ -1,0 +1,15 @@
+C:\Users\maxon\source\repos\Fabrik\bin\Debug\net5.0\Fabrik.exe
+C:\Users\maxon\source\repos\Fabrik\bin\Debug\net5.0\Fabrik.deps.json
+C:\Users\maxon\source\repos\Fabrik\bin\Debug\net5.0\Fabrik.runtimeconfig.json
+C:\Users\maxon\source\repos\Fabrik\bin\Debug\net5.0\Fabrik.runtimeconfig.dev.json
+C:\Users\maxon\source\repos\Fabrik\bin\Debug\net5.0\Fabrik.dll
+C:\Users\maxon\source\repos\Fabrik\bin\Debug\net5.0\Fabrik.pdb
+C:\Users\maxon\source\repos\Fabrik\obj\Debug\net5.0\Fabrik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxon\source\repos\Fabrik\obj\Debug\net5.0\Fabrik.AssemblyInfoInputs.cache
+C:\Users\maxon\source\repos\Fabrik\obj\Debug\net5.0\Fabrik.AssemblyInfo.cs
+C:\Users\maxon\source\repos\Fabrik\obj\Debug\net5.0\Fabrik.csproj.CoreCompileInputs.cache
+C:\Users\maxon\source\repos\Fabrik\obj\Debug\net5.0\Fabrik.dll
+C:\Users\maxon\source\repos\Fabrik\obj\Debug\net5.0\refint\Fabrik.dll
+C:\Users\maxon\source\repos\Fabrik\obj\Debug\net5.0\Fabrik.pdb
+C:\Users\maxon\source\repos\Fabrik\obj\Debug\net5.0\Fabrik.genruntimeconfig.cache
+C:\Users\maxon\source\repos\Fabrik\obj\Debug\net5.0\ref\Fabrik.dll

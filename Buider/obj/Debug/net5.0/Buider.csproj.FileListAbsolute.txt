@@ -1,0 +1,15 @@
+C:\Users\maxon\source\repos\Buider\bin\Debug\net5.0\Buider.exe
+C:\Users\maxon\source\repos\Buider\bin\Debug\net5.0\Buider.deps.json
+C:\Users\maxon\source\repos\Buider\bin\Debug\net5.0\Buider.runtimeconfig.json
+C:\Users\maxon\source\repos\Buider\bin\Debug\net5.0\Buider.runtimeconfig.dev.json
+C:\Users\maxon\source\repos\Buider\bin\Debug\net5.0\Buider.dll
+C:\Users\maxon\source\repos\Buider\bin\Debug\net5.0\Buider.pdb
+C:\Users\maxon\source\repos\Buider\obj\Debug\net5.0\Buider.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxon\source\repos\Buider\obj\Debug\net5.0\Buider.AssemblyInfoInputs.cache
+C:\Users\maxon\source\repos\Buider\obj\Debug\net5.0\Buider.AssemblyInfo.cs
+C:\Users\maxon\source\repos\Buider\obj\Debug\net5.0\Buider.csproj.CoreCompileInputs.cache
+C:\Users\maxon\source\repos\Buider\obj\Debug\net5.0\Buider.dll
+C:\Users\maxon\source\repos\Buider\obj\Debug\net5.0\refint\Buider.dll
+C:\Users\maxon\source\repos\Buider\obj\Debug\net5.0\Buider.pdb
+C:\Users\maxon\source\repos\Buider\obj\Debug\net5.0\Buider.genruntimeconfig.cache
+C:\Users\maxon\source\repos\Buider\obj\Debug\net5.0\ref\Buider.dll

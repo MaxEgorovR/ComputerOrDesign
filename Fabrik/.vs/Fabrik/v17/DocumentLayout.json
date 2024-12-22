@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maxon\\source\\repos\\Fabrik\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51CBB272-AD61-493B-8EF1-37B6D352C5E4}|..\\Buider\\Buider.csproj|c:\\users\\maxon\\source\\repos\\buider\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF60E0B6-3D88-454E-A473-948A0AEF0E69}|Fabrik.csproj|c:\\users\\maxon\\source\\repos\\fabrik\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF60E0B6-3D88-454E-A473-948A0AEF0E69}|Fabrik.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\maxon\\source\\repos\\Buider\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Buider\\Program.cs",
+              "ToolTip": "C:\\Users\\maxon\\source\\repos\\Buider\\Program.cs",
+              "RelativeToolTip": "..\\Buider\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAClAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T10:52:27.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\maxon\\source\\repos\\Fabrik\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\maxon\\source\\repos\\Fabrik\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T10:47:29.848Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
